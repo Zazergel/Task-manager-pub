@@ -1,5 +1,4 @@
 # Task_Manager
-Repository for Task_Manager project.
 ----
 ## Описание проекта
 Первый проект, созданный благодря учебе на Яндекс Практикум. 
